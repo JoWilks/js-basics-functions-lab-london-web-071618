@@ -3,3 +3,6 @@
 function distanceFromHqInBlocks(number) {
   return number 
 }
+
+function distanceFromHqInFeet (someValue) {
+  distanceFromHqInBlocks(someValue);
