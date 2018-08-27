@@ -12,3 +12,4 @@ function distanceFromHqInFeet (someValue) {
 function distanceTravelledInFeet(street1, street2) {
   return Math.abs((street1 - street2) * 264)
 }
+
