@@ -15,6 +15,6 @@ function distanceTravelledInFeet(street1, street2) {
 
 function calculatesFarePrice(start, destination) {
  let feet = Math.abs(start - destination) * 264
- if (feet < 265) {return 0}
- else if (blocks)
+ if (feet < 401) {return 0}
+ else if (feet > 400 && feet <2000)
 }
