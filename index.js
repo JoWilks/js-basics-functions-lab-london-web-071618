@@ -14,5 +14,5 @@ function distanceTravelledInFeet(street1, street2) {
 }
 
 function calculatesFarePrice(start, destination) {
-  start - destination
+ let blocks = Math.abs(start - destination)
 }
