@@ -8,3 +8,4 @@ else if (street < 42) {return 42 - street}
 function distanceFromHqInFeet (someValue) {
   return distanceFromHqInBlocks(someValue) * 264;
 }
+
