@@ -2,7 +2,7 @@
 
 function distanceFromHqInBlocks(street) {
  if (street === 43) {return 1}
- else if (street > 43)
+ else if (street > 43) {return street - 43}
 }
 
 function distanceFromHqInFeet (someValue) {
